@@ -1,5 +1,7 @@
 branch dari resolusi 2022
-
+#fitur 1
+-makan
+-mandi
 #fitur 2
 -main
 -makan
