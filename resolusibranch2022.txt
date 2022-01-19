@@ -1,1 +1,6 @@
 branch dari resolusi 2022
+
+#fitur 2
+-main
+-makan
+-tidur
